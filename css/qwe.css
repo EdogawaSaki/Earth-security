@@ -1,0 +1,28 @@
+body{
+     background:url(../images/background.jpg) no-repeat;
+     background-size: cover;
+
+}
+#jdtk{
+     width: 400px;
+     height: 10px;
+     border: 1px solid #ddd;
+     position: absolute;
+     left: 38%;
+     top:80%;
+}
+#jdt{
+     width: 0px;
+     height: 10px;
+     background: #33ff00;
+}
+#txt{
+     font-family:"楷体";
+     font-size: 26px;
+     width: 500px;
+     height: 400px;
+     text-indent: 32px;
+     position: absolute;
+     left: 34%;
+     top: 30%;
+}

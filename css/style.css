@@ -1,0 +1,42 @@
+ul{
+    font-size:30px;
+    list-style: none;
+    position: absolute;
+    left:830px;
+    top:20px;
+}
+#pause,#again{
+    width: 70px;
+    height:30px;
+    border: 1px solid #060;
+    float: left;
+    font-size: 15px;
+    margin-top: 40px;
+    margin-right: 50px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    cursor:pointer;
+}
+#pause:active,#again:active{
+   font-size: 20px;  
+}
+#image{
+position:absolute;
+}
+#score1{
+    font-size:48px;
+    color:green;
+}
+#score2{
+    font-size:48px;
+    color:blue;
+}
+#time{
+    font-size:48px;
+    color:red;
+}
+#canvas{
+    border:1px solid #000;
+    background-image: url(../images/back_副本.jpg);
+}
